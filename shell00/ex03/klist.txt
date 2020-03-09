@@ -1,0 +1,8 @@
+Credentials cache: API:E1750CC7-32BF-43AC-B61E-8F0F07F6B38F
+        Principal: robrular@42.FR
+
+		  Issued                Expires               Principal
+		  Jul  1 09:08:47 2019  Jul  8 09:08:47 2019  krbtgt/42.FR@42.FR
+		  Jul  1 09:08:48 2019  Jul  8 09:08:47 2019  ldap/ldap-proxy.42.fr@42.FR
+		  Jul  1 09:08:48 2019  Jul  8 09:08:47 2019  HTTP/student-storage-2.42.fr@42.FR
+		  Jul  1 09:24:37 2019  Jul  8 09:08:47 2019  host/vgs-fn1.42.fr@42.FR
